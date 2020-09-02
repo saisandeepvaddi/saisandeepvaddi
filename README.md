@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Front-End developer at [Untethered Labs, Inc.](https://gkaccess.com)
+
+- 🔭 I’m currently working on [Ten Hands](https://github.com/saisandeepvaddi/ten-hands).
+- 👯 I’m looking to collaborate on JS/TS based projects.
+- 💬 Ask me about anything.
+- 📫 How to reach me: Email is best [saisandeepvaddi@gmail.com]. I'm not active on social media. But, I'll check if I see any notifications on Twitter, Facebook, and DEV. All have handles `saisandeepvaddi`.
+
+![GitHub Stats for Vaddi](https://github-readme-stats.vercel.app/api?username=saisandeepvaddi&show_icons=true)
+
 <!--
 **saisandeepvaddi/saisandeepvaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
