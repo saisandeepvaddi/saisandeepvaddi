@@ -2,7 +2,7 @@
 
 I'm a Front-End developer at [Untethered Labs, Inc.](https://gkaccess.com)
 
-- 🔭 I’m currently working on [Ten Hands](https://github.com/saisandeepvaddi/ten-hands).
+- 🔭 I’m currently working on [Ten Hands](https://github.com/saisandeepvaddi/ten-hands) (personal project).
 - 👯 I’m looking to collaborate on JS/TS based projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Email](mailto://saisandeepvaddi@gmail.com) is the best way. But, I'll respond on [Twitter](https://twitter.com/saisandeepvaddi), and [DEV](https://dev.to/saisandeepvaddi) as well.
