@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Front-End developer at [Motional](https://motional.com)
+I'm a Software Developer at [Motional](https://motional.com)
 
 - 🔭 I’m currently working on [Ten Hands](https://github.com/saisandeepvaddi/ten-hands) (personal project).
 - 👯 I’m looking to collaborate on JS/TS based projects.
